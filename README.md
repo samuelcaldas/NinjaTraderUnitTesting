@@ -13,7 +13,6 @@ To install NinjaTrader.UnitTest, follow these steps:
 
 ## Usage
 
-To use NinjaTrader.UnitTest in your NinjaScript projects, follow these steps:
 To use the NinjaTrader UnitTest add-on in your own NinjaScript project, follow these steps:
 1. Add a reference to the `NinjaTrader.UnitTest` namespace.
 2. Create test cases by subclassing the `NinjaTrader.UnitTest.TestCase` class.
